@@ -1,0 +1,12 @@
+{
+    "name": "huzhenghui/package-hello",
+    "description": "",
+    "type": "library",
+    "authors": [
+        {
+            "name": "胡争辉",
+            "email": "hu@daonao.com"
+        }
+    ],
+    "require": {}
+}
