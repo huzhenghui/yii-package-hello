@@ -8,5 +8,12 @@
             "email": "hu@daonao.com"
         }
     ],
-    "require": {}
+    "require": {
+        "yiisoft/yii2": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "huzhenghui\\hello\\": "src"
+        }
+    }
 }
